@@ -8,7 +8,7 @@ class ExplorePage extends StatelessWidget {
     final List<Map<String, dynamic>> courses = [
       {
         'icon': Icons.smartphone,
-        'title': 'Mobile Programming Advanced',
+        'title': 'Mobile Programming Lanjutan',
         'subtitle': 'Belajar Flutter dan pengembangan aplikasi.',
         'status': 'on going',
       },
